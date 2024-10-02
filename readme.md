@@ -1,6 +1,8 @@
 # USB Captcha Application
 
 This application serves as a fun CAPTCHA system that interacts with USB insertion. When a USB drive is detected, the window changes and prompts the user to continue.
+To download Windows executable use this Mega link (it was too big for Github) - [mega.nz](https://mega.nz/file/8VcmGZwK#rBezIb_SQ8mrsV_1bpUqAe60WhGj0JNyrlEn66JEjFA). 
+If that doesn't work then folow instruction down here and run it from terminal as Python file.
 
 ## Table of Contents
 
