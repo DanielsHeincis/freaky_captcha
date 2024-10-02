@@ -1,0 +1,10 @@
+# Third-party libraries
+playsound==1.2.2
+Pillow==10.0.0
+
+# Standard libraries (included with Python, no need to install)
+# tkinter
+# os
+# time
+# threading
+# string
