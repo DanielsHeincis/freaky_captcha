@@ -41,7 +41,7 @@ Before you begin, ensure you have met the following requirements:
 2. **Run the Application**:
    - In the terminal or command prompt, execute the following command:
      ```bash
-     python captcha_app.py
+     python main.py
      ```
    - This will launch the application window.
 
